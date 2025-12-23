@@ -1,4 +1,4 @@
-#include "structs.h"
+#include "structure.h"
 
 double distance(double x1, double y1, double x2, double y2);
 
